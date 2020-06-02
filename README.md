@@ -1,4 +1,4 @@
-# MY FIRST PROJECT AT HOLBERTON	
+# MY FIRST PROJECT AT HOLBERTON WITH EMACS L
 
 ~~~
 This is  my first project in EMACS and UBUNTU piece of code
@@ -23,13 +23,8 @@ M-e	Next sentence
 C-v	Next screen
 M->	End of buffer
 
-
-
-77buffers
+//buffers
 C-x C b // numero de buffers
-
-
-
 
 //frames
 
